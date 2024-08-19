@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Benette and I'm a boy from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Pedro Benette and I'm a man from Brazil</h2>
 
 ###
 
