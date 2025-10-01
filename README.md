@@ -5,10 +5,10 @@ Atualmente cursando faculdade e sempre buscando aprender mais sobre tecnologia e
 
 ## 🚀 Tecnologias & Skills
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **C** (em aprendizado na faculdade)
+- **HTML** <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+- **CSS** <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- **JavaScript** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- **C** (em aprendizado na faculdade) <img align="center" alt="C" height="40" width="35" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
 
 ## 🌱 Sobre mim
 
