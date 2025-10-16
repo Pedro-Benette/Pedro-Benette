@@ -23,7 +23,7 @@ Minha maior motivação é conquistar uma estabilidade financeira para mim e min
 - [Portifólio](https://github.com/Pedro-Benette/Portifolio_Novo)
 - [Meu Perfil](https://github.com/Pedro-Benette/Pedro-Benette)
 - [NWL Project](https://github.com/Pedro-Benette/NWL_Project)
-- [NWL Project 2](https://github.com/Pedro-Benette/NWL_Prompts_Manager)
+- [NWL_Prompts_Manager](https://github.com/Pedro-Benette/NWL_Prompts_Manager)
 - [Site Podologia](https://github.com/Pedro-Benette/Site_Podologia)
 - [Perguntas Alura](https://github.com/Pedro-Benette/Perguntas_Alura)
 - [Benettebook](https://github.com/Pedro-Benette/Benettebook)
